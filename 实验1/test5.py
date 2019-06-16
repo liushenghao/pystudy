@@ -24,3 +24,6 @@ def main():
             b_line = line.encode('utf-8')
             print(b_line)
         f.close()
+
+if __name__ == "__main__":
+    main()
