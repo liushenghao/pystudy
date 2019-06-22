@@ -1,0 +1,2 @@
+test1.新建一个Stack类，定义属性items为空列表。isEmpty方法会通过判断items是否为空，返回true或者false。backTop方法用于返回栈顶。sizeOf方法调用len方法返回items的大小。pushIn为入栈操作，使用列表的append方法。pullOut为出栈操作，使用列表的pop方法，都是针对列表的最后一位，即栈顶。
+test2.ListInstanceAttr为父类，作为BCD的超类存在，在BC中都使用super方法进行继承，D中使用super方法对BC多继承，最后输出D中的所有属性验证。
