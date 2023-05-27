@@ -1,5 +1,5 @@
 def main():
-    people,index,number= 30,0,0
+    people, index, number = 30,0,0
     list1 = [True]*people
     while people >15:
         if list1[index]:
